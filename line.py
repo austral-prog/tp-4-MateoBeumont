@@ -4,10 +4,10 @@ def line():
 	coefB = float(input('Ingrese el coeficiente B: '))
 	coefX1 = float(input('Ingrese el coeficiente X1: '))
 	coefX2 = float(input('Ingrese el coeficiente X2: '))
-	print(f"El coeficiente A de su ecuación de la recta es:{coefA}")
-	print(f"El coeficiente B de su ecuación de la recta es:{coefB}")
-	print(f"El coeficiente X1 de su ecuación de la recta es:{coefX1}")
-	print(f"El coeficiente X2 de su ecuación de la recta es:{coefX2}\n\n")
+	print(f"El coeficiente A de su ecuación de la recta es:{coefA} ")
+	print(f"El coeficiente B de su ecuación de la recta es:{coefB} ")
+	print(f"El coeficiente X1 de su ecuación de la recta es:{coefX1} ")
+	print(f"El coeficiente X2 de su ecuación de la recta es:{coefX2} \n\n")
 
 	print(f"Para la siguiente ecuación:\n\tY = {coefA}X + {coefB}\n\n")
 
