@@ -1,6 +1,6 @@
 def line():
 import math
-    coefA = float(input('Ingrese el coeficiente A: '))
+	coefA = float(input('Ingrese el coeficiente A: '))
 	coefB = float(input('Ingrese el coeficiente B: '))
 	coefX1 = float(input('Ingrese el coeficiente X1: '))
 	coefX2 = float(input('Ingrese el coeficiente X2: '))
